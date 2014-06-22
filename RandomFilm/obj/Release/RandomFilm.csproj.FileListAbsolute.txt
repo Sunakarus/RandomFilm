@@ -1,0 +1,6 @@
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\bin\Release\RandomFilm.exe.config
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\bin\Release\RandomFilm.exe
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\bin\Release\RandomFilm.pdb
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\obj\Release\RandomFilm.csprojResolveAssemblyReference.cache
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\obj\Release\RandomFilm.exe
+C:\Users\HanThi\Disk Google\Dropbox\Projects\RandomFilm\RandomFilm\obj\Release\RandomFilm.pdb
